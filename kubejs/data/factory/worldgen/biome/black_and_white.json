@@ -1,0 +1,34 @@
+{
+    "temperature": 0.5,
+    "downfall": 0.5,
+    "has_precipitation": true,
+    "effects": {
+        "sky_color": 8103167,
+        "fog_color": 12638463,
+        "water_color": 4159204,
+        "water_fog_color": 329011
+    },
+    "spawners": {},
+    "spawn_costs": {},
+    "carvers": {},
+    "features": [
+        ["factory:white_ground"],
+        [
+            "factory:black_lines/west",
+            "factory:black_lines/west_outer",
+            "factory:black_lines/north",
+            "factory:black_lines/north_outer",
+            "factory:black_lines/east",
+            "factory:black_lines/south"
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        ["factory:simple_poppy"],
+        []
+    ]
+}

@@ -1,0 +1,31 @@
+# Minecraft 整合包常用忽略
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+*.DS_Store
+Thumbs.db
+
+# IDE 配置
+.idea/
+.vscode/
+*.iml
+
+
+# KubeJS 缓存
+kubejs/server_scripts/cache/
+kubejs/client_scripts/cache/
+
+# overrides
+overrides/
+
+# 其他常见忽略
+options.txt
+
+# 不忽略版本控制文件
+!.gitignore
+!CHANGELOG.md
+!modlist.html
+!README.md
+

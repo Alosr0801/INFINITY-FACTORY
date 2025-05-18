@@ -1,0 +1,8 @@
+{
+    "feature": "factory:simple_poppy",
+    "placement": [
+        {
+            "type": "minecraft:biome"
+        }
+    ]
+}

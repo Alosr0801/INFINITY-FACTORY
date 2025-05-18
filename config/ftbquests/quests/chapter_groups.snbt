@@ -1,0 +1,7 @@
+{
+	chapter_groups: [
+		{ id: "6A3224D1780D8ADF", title: "欢迎" }
+		{ id: "6C5B3DD5D194B609", title: "第一章" }
+		{ id: "7442E4D7266C843D", title: "第二章" }
+	]
+}

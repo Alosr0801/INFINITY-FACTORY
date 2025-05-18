@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:overworld",
+    "generator": {
+        "type": "minecraft:noise",
+        "seed": 0,
+        "settings": "factory:void",
+        "biome_source": {
+            "type": "minecraft:fixed",
+            "biome": "factory:black_and_white"
+        }
+    }
+}

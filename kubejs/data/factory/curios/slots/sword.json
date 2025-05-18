@@ -1,0 +1,11 @@
+{
+    "add_cosmetic": false,
+    "size": 1,
+    "use_native_gui": true,
+    "icon": "factory:item/curios_slots/sword",
+    "validators":["curios:tag"],
+    "operation": "SET",
+    "order": 1,
+    "replace": false,
+    "render_toggle": true
+}
