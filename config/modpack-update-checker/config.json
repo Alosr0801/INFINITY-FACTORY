@@ -4,12 +4,12 @@
   "modpackName": "Infinity Factory",
   "modpackAuthor": "ToM",
   "modpackReleaseType": "beta",
-  "updateCheckerId": "https://raw.githubusercontent.com/Modpack-Update-Checker/example-update-checker/main/",
+  "updateCheckerId": "https://raw.githubusercontent.com/Alosr0801/INFINITY-FACTORY/refs/heads/main/",
   "advanced": {
     "bccEnabled": false,
-    "expandButton": false,
+    "expandButton": true,
     "updateCheckerType": 2,
     "retroWarning": false,
-    "modpackMods": []
+    "forceModpackCompatible": true
   }
 }
